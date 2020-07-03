@@ -2,15 +2,17 @@
 
 > Naval 是美国风险投资家，这是他的3小时长播客《如何不靠运气变得富有》的中文翻译，介绍了他的财富观，非常值得一读。
 
-## 我们在这 :point_down:
+## 瞄一瞄这 :point_down:
+
+1. 胖车库是一个有意思人类的收集计划（开发者、创业者、自由职业者，还有你）和DAO去中心化协作实验室，看看大家都在不同领域做着什么样新的尝试，希望给你未来的可能性提供一些想象力。**我们也会在胖车库第一时间更新“如何不靠运气变得富有”系列**，欢迎大家一起来玩耍 :microphone:。
 
 ![胖车库](https://i.imgur.com/WubW2ud.jpg)
 
-胖车库是一个有意思人类的收集计划（开发者、创业者、自由职业者，还有你）和DAO去中心化协作实验室，看看大家都在不同领域做着什么样新的尝试，希望给你未来的可能性提供一些想象力。**我们也会在胖车库第一时间更新“如何不靠运气变得富有”系列**，欢迎大家一起来玩耍 :microphone:。
+2. BitFuture为传统行业提供区块链咨询、公链开发、交易所开发、DApp开发、商业模式设计、经济模型设计、社区建设与运营方案等全栈链改服务，在众多行业和业务中成功交付了解决方案 :gem:。
 
 ![BitFuture](https://i.imgur.com/V2gv5nk.jpg)
 
-BitFuture为传统行业提供区块链咨询、公链开发、交易所开发、DApp开发、商业模式设计、经济模型设计、社区建设与运营方案等全栈链改服务，在众多行业和业务中成功交付了解决方案 :gem:。
+3. 哈哈哈，:smirk: 其实我还整理出[notion版](https://www.notion.so/taosu/Updating-faf1fa3dbcc34e60b443506e76a9c1ab)和[PDF版](https://cdn.jsdelivr.net/gh/taosue/how-to-get-rich-without-getting-lucky@master/%E5%A6%82%E4%BD%95%E4%B8%8D%E9%9D%A0%E8%BF%90%E6%B0%94%E5%8F%98%E5%BE%97%E5%AF%8C%E6%9C%89(%E4%B8%8A)_Naval%20%EF%BC%88%E8%91%97%EF%BC%89%26Jessie%EF%BC%88%E8%AF%91%EF%BC%89.pdf)(我就把PDF导进去iPad，在iPad上看书:books:)，大家戳戳链接就可以看到了。
 
 ## 第一条：追求财富，而不是金钱或地位
 
